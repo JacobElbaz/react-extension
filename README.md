@@ -10,6 +10,13 @@ After that you must have the option to open FastOpen as extension.
 
 This react app extension for chrome allows you to create and manage groups of websites that you should have to open in one click.
 
+## Technologies
+
+- JavaScript 
+- React 
+- Bootstrap
+- LocalStorage 
+
 ## Features
 
 ### Add a new group
@@ -23,7 +30,3 @@ This react app extension for chrome allows you to create and manage groups of we
 ### Open all the urls from a group in one click
 
 ![openall](https://user-images.githubusercontent.com/73593531/177599812-ccfa2264-f407-4639-bf99-cafd5851d751.gif)
-
-## Technologies
-
-JavaScript, React, Local Storage, Bootstrap
